@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+  background-color: rgb(156, 240, 156);
+   
+}
+.imagem2{
+    width: 25%;
+    height: 25%;
+}
+.loginx{
+    width: 12%;
+    height: 12%;
+    position: relative;
+    bottom: 22px;
+}
+.login{
+    background-color:rgb(144, 144, 204);
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 45%;
+    position: relative;
+    top: 122px;
+    margin: auto;
+    border-radius: 6px;
+   
+    
+    
+}
+.imagem1{
+    display: flex;
+    justify-content:left;
+}
+.login inpute{
+    display: flex;
+    width:210px ;
+    height: 40px;
+    border-radius: 4px;
+  
+
+}
+.login .loginx{
+    order:-1;
+}
+.titulo2{
+    text-align: center;
+    padding: 5%;
+    font-size: 28px;
+}
+.conta1{
+    text-align: end;
+    position: relative;
+    left: 0.2%;
+    bottom: 18px;
+}
+.submit{
+    width: 100px;
+    padding: 6px;
+    border-radius: 5px;
+    background-color: rgb(83, 83, 182);
+    margin: 16px;
+    position: relative;
+    top:4px;
+    text-align: center;
+    right: 80px;
+    filter: drop-shadow(7px 7px  7px);
+
+
+}
+.oi{
+    position: relative;
+    left:190px;
+    font-size: 14px;
+    bottom: 34px;
+    
+}
+.loginx{
+    position: relative;
+    bottom:118px;
+    top: -152px;
+    right:center;
+}
+.foi{
+    text-align: center;
+    margin: 10px;
+   
+}
+.inpute{
+    margin: 15px;
+    height: 28px;
+    width: 240px;
+    border-radius: 4px;
+    filter: drop-shadow(4px 4px  4px);
+    background-image:url("https://i.imgur.com/eKw2dvH.png");
+    background-repeat: no-repeat;
+    background-size: 1.5em;
+    padding-left: 1.5em;
+}
+.inputex{
+    margin: 15px;
+    height: 28px;
+    width: 240px;
+    border-radius: 4px;
+    filter: drop-shadow(3px 3px  3px);
+    background-image:url("https://i.imgur.com/eKw2dvH.png");
+    background-repeat: no-repeat;
+    background-size: 1.5em;
+    padding-left: 1.5em;
+
+}
+.fotox{
+    width: 36%;
+    height: 36%;
+    position: relative;
+    bottom: 150px;
+    border-radius: 6px;
+    margin: auto;
+
+    background-color: blue;
+    
+}
+fieldset{
+    border: solid 3px;
+    border-radius: 5px;
+  
+}
